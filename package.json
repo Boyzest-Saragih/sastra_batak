@@ -1,5 +1,5 @@
 {
-  "name": "ai-landing-page",
+  "name": "sastra_batak_toba",
   "version": "0.1.0",
   "type": "module",
   "scripts": {
@@ -18,7 +18,6 @@
     "less": "latest",
     "lightningcss": "latest",
     "lucide-react": "^0.454.0",
-    "next": "16.0.1",
     "react": "^19.2.0",
     "react-dom": "latest",
     "sass": "latest",
